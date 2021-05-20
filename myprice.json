@@ -1,5 +1,5 @@
 {
-  "BASE/QUOTE": {  // pair name
+  "HTZ/USDT": {  // pair name
     "price": 0.005, // central price
     "up": 500.00, // percent deviation top line 1% = 0.01
     "down": 500.00  // percent deviation bottom line 1% = 0.01
