@@ -1,7 +1,7 @@
 {
-  "HTZ/USDT": {  // pair name
-    "price": 0.005, // central price
-    "up": 500.00, // percent deviation top line 1% = 0.01
-    "down": 500.00  // percent deviation bottom line 1% = 0.01
+  "HTZ/USDT": {  
+    "price": 0.005, 
+    "up": 500.00, 
+    "down": 500.00  
   }
 }
